@@ -1,2 +1,2 @@
 # robofriends-ci
-integration with ci
+Continuous Integration for robofriends app!
